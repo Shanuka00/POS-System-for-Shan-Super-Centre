@@ -15,7 +15,7 @@ class ReportViewer():
 
         def viewReport():
 
-            wb.open_new(r'C:\Users\ASUS\Desktop\MainProj\Report\Daily_sales_report.pdf')
+            wb.open_new(r'..\Report\Daily_sales_report.pdf')
 
         home.config(bg="#ADD8E6")
 
